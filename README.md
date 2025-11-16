@@ -48,4 +48,13 @@ GUI testing
 
 Triggering sequences of application actions without human intervention
 
+## 📥 Download Now
+
+Ready to start automating?
+
+👉 **[Download Trabalier RPA for Windows (Trabalier.exe)](https://github.com/CaiqueCastro07/Trabalier-RPA/raw/refs/heads/main/Trabalier.exe)**
+
+Download the executable, run it on your desktop, and begin creating powerful automation flows instantly.
+
+
 
