@@ -3,6 +3,7 @@
 A lightweight and powerful Desktop RPA (Robotic Process Automation) tool designed to automate common user interactions on any operating system. This project provides an easy-to-use interface and API to simulate human-like control of the mouse and keyboard.
 
 🚀 Features
+
 🖱️ Mouse Automation
 
 Move the mouse to any screen coordinate
