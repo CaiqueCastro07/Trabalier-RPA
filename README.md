@@ -46,16 +46,6 @@ Desktop data entry and form filling
 
 GUI testing
 
-Bulk processing in legacy systems
-
 Triggering sequences of application actions without human intervention
 
-🔧 Tech Stack
 
-Built using libraries for desktop automation such as:
-
-Mouse & keyboard control toolkit
-
-Screen recognition engine (e.g. image-based locator)
-
-Optional scripting engine for creating automation flows
