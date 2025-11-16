@@ -1,10 +1,10 @@
-##🖥️ Trabalier RPA Automation
+## 🖥️ Trabalier RPA Automation
 
 A lightweight and powerful Desktop RPA (Robotic Process Automation) tool designed to automate common user interactions on any operating system. This project provides an easy-to-use interface and API to simulate human-like control of the mouse and keyboard.
 
-##🚀 Features
+## 🚀 Features
 
-##🖱️ Mouse Automation
+## 🖱️ Mouse Automation
 
 Move the mouse to any screen coordinate
 
@@ -14,7 +14,7 @@ Perform left, right, and middle clicks
 
 Perform double-clicks and drag-and-drop actions
 
-##⌨️ Keyboard Automation
+## ⌨️ Keyboard Automation
 
 Type text programmatically
 
@@ -22,7 +22,7 @@ Press individual keys or full hotkey combinations (e.g., Ctrl + C, Alt + Tab, Ct
 
 Simulate special keys (Enter, Escape, Arrow keys, etc.)
 
-##🧠 Screen Interaction
+## 🧠 Screen Interaction
 
 Locate elements on the screen using images or patterns
 
@@ -30,7 +30,7 @@ Wait for elements to appear before interacting
 
 Take screenshots for validation or debugging
 
-##🛠️ Additional Capabilities
+## 🛠️ Additional Capabilities
 
 Robust automation loops and conditional execution
 
