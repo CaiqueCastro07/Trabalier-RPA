@@ -56,5 +56,5 @@ Ready to start automating?
 
 Download the executable, run it on your desktop, and begin creating powerful automation flows instantly.
 
-
+Virus scanner: https://www.virustotal.com/gui/file-analysis/ODc2ZTg5ODA1MzM2NDBkMzVhN2YzN2E4YWJjMjIxMWE6MTc2NTE1MDI3NA==
 
